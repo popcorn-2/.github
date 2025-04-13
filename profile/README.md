@@ -13,6 +13,10 @@ Popcorn2 is made up of several subprojects, each in it's own repository:
 More information about each subproject can be found in the README is the corresponding repository.
 
 Additionally, forks of several other repositories are kept here, with patches to support Popcorn2.
+The major ones are:
+
+- [llvm](http://github.com/popcorn-2/llvm-project) - Toolchain and C++ runtime
+- [mlibc](http://github.com/popcorn-2/mlibc) - C standard library
 
 ## Contributors
 
