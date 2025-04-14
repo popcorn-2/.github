@@ -15,8 +15,9 @@ More information about each subproject can be found in the README is the corresp
 Additionally, forks of several other repositories are kept here, with patches to support Popcorn2.
 The major ones are:
 
-- [llvm](http://github.com/popcorn-2/llvm-project) - Toolchain and C++ runtime
+- [llvm](http://github.com/popcorn-2/llvm-project) - C and C++ toolchain and C++ standard library
 - [mlibc](http://github.com/popcorn-2/mlibc) - C standard library
+- [rust](http://github.com/popcorn-2/rust) - Rust toolchain and standard library
 
 ## Contributors
 
