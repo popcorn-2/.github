@@ -18,6 +18,7 @@ The major ones are:
 - [llvm](http://github.com/popcorn-2/llvm-project) - C and C++ toolchain and C++ standard library
 - [mlibc](http://github.com/popcorn-2/mlibc) - C standard library
 - [rust](http://github.com/popcorn-2/rust) - Rust toolchain and standard library
+- [libc (rust)](http://github.com/popcorn-2/libc-rs) - Rust C standard library bindings
 
 ## Contributors
 
