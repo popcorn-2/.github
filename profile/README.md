@@ -10,6 +10,16 @@ Popcorn2 is made up of several subprojects, each in it's own repository:
 - [pipc](http://github.com/popcorn-2/pipc) - The Popcorn2 IPC Protocol Compiler
 - [core-protocols](http://github.com/popcorn-2/core-protocols) - Sources for the Popcorn2 IPC Protocol files needed for a typical installation
 
+**Core userspace projects**
+- [file-server](http://github.com/popcorn-2/file-server) - The VFS and `initd` daemon (intrinsically tangled together too much)
+- [revolution](http://github.com/popcorn-2/revolution) - The Revolution compositor (though for now just a terminal multiplexer)
+- [devman](http://github.com/popcorn-2/devman) - The Popcorn2 device manangement server
+
+**Drivers**
+- [ia32_acpi_root](http://github.com/popcorn-2/ia32_acpi_root) - Root bus driver for x86 and x86-64 ACPI based systems
+- [pci](http://github.com/popcorn-2/pci) - PCI bus driver
+- [i8042](http://github.com/popcorn-2/i8042) - i8042 PS/2 driver, supporting mice and keyboards
+
 More information about each subproject can be found in the README is the corresponding repository.
 
 Additionally, forks of several other repositories are kept here, with patches to support Popcorn2.
