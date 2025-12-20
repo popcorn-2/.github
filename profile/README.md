@@ -30,8 +30,7 @@ The major ones are:
 - [rust](http://github.com/popcorn-2/rust) - Rust toolchain and standard library
 - [libc (rust)](http://github.com/popcorn-2/libc-rs) - Rust C standard library bindings
 
-## Contributors
+## Other contributors
 
-- @bluewhale64
 - @hiornso
 - @workingjubilee
