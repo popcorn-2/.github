@@ -33,5 +33,6 @@ The major ones are:
 
 ## Other contributors
 
+- @Beanie496
 - @hiornso
 - @workingjubilee
